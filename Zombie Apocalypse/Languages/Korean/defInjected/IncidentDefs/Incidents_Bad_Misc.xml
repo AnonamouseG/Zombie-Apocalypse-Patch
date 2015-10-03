@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <AirborneZombieVirus.letterLabel>좀비 바이러스 퍼짐</AirborneZombieVirus.letterLabel>
+    <AirborneZombieVirus.letterText>근처 마을에서 급박한 무전을 받았습니다.\n\n주변 여러 마을에서 좀비 사태가 발생하고 있습니다! 전문가들은 바이러스가 벌써 퍼져서 우리도 감염되었을 것이라고 합니다!\n\n만약 사실이라면 모든 인간 시체는 곧 부활하기 시작할겁니다. 모두 불태워야 합니다.</AirborneZombieVirus.letterText>
+
+    <ZombieVirusActive.letterLabel>좀비 사태</ZombieVirusActive.letterLabel>
+    <ZombieVirusActive.letterText>주변 마을에서 좀비 사태에 대한 불분명한 보고가 들어오고 있습니다. 다음 목적지가 이 곳이 될지도 모르니 준비해야 합니다.</ZombieVirusActive.letterText>
+
+</LanguageData>

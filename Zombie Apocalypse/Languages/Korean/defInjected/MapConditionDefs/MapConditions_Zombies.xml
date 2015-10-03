@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<ZombieVirusMapCondition.label>좀비 바이러스 활성화</ZombieVirusMapCondition.label>
+	<ZombieVirusMapCondition.description>좀비 바이러스가 활성화 상태입니다. 좀비 군단이 정착지로 몰려듭니다. 좀비에게 물린 모든 인간은 점차 죽어가다가 좀비로 부활합니다.</ZombieVirusMapCondition.description>
+
+	<ZombieVirusAirborne.label>좀비 바이러스 퍼짐</ZombieVirusAirborne.label>
+	<ZombieVirusAirborne.description>좀비 바이러스가 공기중으로 퍼졌습니다. 사인에 관계 없이 모든 시체가 부활합니다.</ZombieVirusAirborne.description>
+
+</LanguageData>

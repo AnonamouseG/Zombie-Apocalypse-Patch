@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Zombie.label>좀비</Zombie.label>
+	<TribalZombie.label>부족 좀비전사</TribalZombie.label>
+	<PirateZombie.label>좀비 해적</PirateZombie.label>
+	<OutlanderZombie.label>좀비 마을 경비대</OutlanderZombie.label>
+	<MercenaryZombie.label>좀비 용병</MercenaryZombie.label>
+	
+</LanguageData>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<!-- Outer :: General -->
+    <zHead.label>머리</zHead.label>
+    <zSkull.label>두개골</zSkull.label>
+    <zBrain.label>뇌</zBrain.label>
+    <zLeftEye.label>왼쪽 눈</zLeftEye.label>
+    <zRightEye.label>오른쪽 눈</zRightEye.label>
+    <zLeftEar.label>왼쪽 귀</zLeftEar.label>
+    <zRightEar.label>오른쪽 귀</zRightEar.label>
+    <zNose.label>코</zNose.label>
+    <zJaw.label>턱</zJaw.label>
+    <zNeck.label>목</zNeck.label>
+    <zRib.label>갈비뼈</zRib.label>
+    <zSpine.label>척추</zSpine.label>
+    <zLeftLeg.label>왼쪽 다리</zLeftLeg.label>
+    <zLeftFoot.label>왼발</zLeftFoot.label>
+    <zRightLeg.label>오른쪽 다리</zRightLeg.label>
+    <zRightFoot.label>오른발</zRightFoot.label>
+
+<!-- Outer :: Humanoid -->
+    <zTorso.label>몸통</zTorso.label>
+    <zLeftShoulder.label>왼쪽 어깨</zLeftShoulder.label>
+    <zLeftArm.label>왼팔</zLeftArm.label>
+    <zLeftHand.label>왼손</zLeftHand.label>
+    <zLeftHandPinky.label>왼손 소지</zLeftHandPinky.label>
+    <zLeftHandRingFinger.label>왼손 약지</zLeftHandRingFinger.label>
+    <zLeftHandMiddleFinger.label>왼손 중지</zLeftHandMiddleFinger.label>
+    <zLeftHandIndexFinger.label>왼손 검지</zLeftHandIndexFinger.label>
+    <zLeftHandThumb.label>왼손 엄지</zLeftHandThumb.label>
+    <zRightShoulder.label>오른쪽 어깨</zRightShoulder.label>
+    <zRightArm.label>오른팔</zRightArm.label>
+    <zRightHand.label>오른손</zRightHand.label>
+    <zRightHandPinky.label>오른손 소지</zRightHandPinky.label>
+    <zRightHandRingFinger.label>오른손 약지</zRightHandRingFinger.label>
+    <zRightHandMiddleFinger.label>오른손 중지</zRightHandMiddleFinger.label>
+    <zRightHandIndexFinger.label>오른손 검지</zRightHandIndexFinger.label>
+    <zRightHandThumb.label>오른손 엄지</zRightHandThumb.label>
+    <zLeftFootLittleToe.label>왼발 새끼발가락</zLeftFootLittleToe.label>
+    <zLeftFootFourthToe.label>왼발 약지발가락</zLeftFootFourthToe.label>
+    <zLeftFootMiddleToe.label>왼발 장지발가락</zLeftFootMiddleToe.label>
+    <zLeftFootSecondToe.label>왼발 검지발가락</zLeftFootSecondToe.label>
+    <zLeftFootBigToe.label>왼발 엄지발가락</zLeftFootBigToe.label>
+    <zRightFootLittleToe.label>오른발 새끼발가락</zRightFootLittleToe.label>
+    <zRightFootFourthToe.label>오른발 약지발가락</zRightFootFourthToe.label>
+    <zRightFootMiddleToe.label>오른발 장지발가락</zRightFootMiddleToe.label>
+    <zRightFootSecondToe.label>오른발 검지발가락</zRightFootSecondToe.label>
+    <zRightFootBigToe.label>오른발 엄지발가락</zRightFootBigToe.label>
+<!-- Inner :: Bones -->
+    <zLeftClavicle.label>왼쪽 쇄골</zLeftClavicle.label>
+    <zRightClavicle.label>오른쪽 쇄골</zRightClavicle.label>
+    <zSternum.label>흉골</zSternum.label>
+    <zLeftHumerus.label>왼쪽 상완골</zLeftHumerus.label>
+    <zRightHumerus.label>오른쪽 상완골</zRightHumerus.label>
+    <zLeftRadius.label>왼쪽 요골</zLeftRadius.label>
+    <zRightRadius.label>오른쪽 요골</zRightRadius.label>
+    <zPelvis.label>골반</zPelvis.label>
+    <zLeftFemur.label>왼쪽 대퇴골</zLeftFemur.label>
+    <zRightFemur.label>오른쪽 대퇴골</zRightFemur.label>
+    <zLeftTibia.label>왼쪽 정강이뼈</zLeftTibia.label>
+    <zRightTibia.label>오른쪽 정강이뼈</zRightTibia.label>
+
+<!-- Outer :: Organs -->
+    <zHeart.label>심장</zHeart.label>
+    <zLeftLung.label>왼쪽 폐</zLeftLung.label>
+    <zRightLung.label>오른쪽 폐</zRightLung.label>
+    <zLeftKidney.label>왼쪽 신장</zLeftKidney.label>
+    <zRightKidney.label>오른쪽 신장</zRightKidney.label>
+    <zLiver.label>간</zLiver.label>
+    <zStomach.label>위</zStomach.label>
+
+</LanguageData>

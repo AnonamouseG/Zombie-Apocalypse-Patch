@@ -1,0 +1,8 @@
+Important: Install instructions:
+
+-Install Copy and paste the mod folders provided in this patch into your mods folder.
+
+-Activate the mod in game using the mod tab the load order should not matter too much, I would load it near the bottom of the list above EDB Interface.
+
+
+-Done!

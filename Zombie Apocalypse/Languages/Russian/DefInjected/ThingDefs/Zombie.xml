@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+	<Zombie_Leather.label>Кожа зомби</Zombie_Leather.label>
+	<Zombie_Leather.description>Какая гадость, оно воняет тухлятиной.</Zombie_Leather.description>
+	<Zombie_Leather.stuffProps.stuffAdjective>кожи зомби</Zombie_Leather.stuffProps.stuffAdjective>
+
+	<Zombie_Meat.label>Мясо зомби</Zombie_Meat.label>
+	<Zombie_Meat.description>Мясо зомби... жутко воняет тухлятиной.</Zombie_Meat.description>
+
+</LanguageData>

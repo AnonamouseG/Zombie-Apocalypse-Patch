@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<Zombie>좀비</Zombie>
+	<ColonistInfected>{0}(이)가 좀비 바이러스에 감염되었습니다!</ColonistInfected>
+	<ColonistsBitten>정착민 감염!</ColonistsBitten>
+	<ColonistsBittenList>다음 정착민들이 좀비 바이러스에 감염되었습니다.\n\n{0}\n예의주시하면서, 가능하면 격리하세요. 사망하는 즉시 좀비로 일어납니다.</ColonistsBittenList>
+	<SmallHorde>작은 무리의 좀비가 근처에 도착했습니다!</SmallHorde>
+	<MediumHorde>중간 규모의 좀비 무리가 근처에 도착했습니다!</MediumHorde>
+	<LargeHorde>큰 규모의 좀비 무리가 근처에 도착했습니다!</LargeHorde>
+	<MassiveHorde>거대한 규모의 좀비 무리가 정착지를 향해 움직이고 있습니다!</MassiveHorde>
+	<OverwhelmingHorde>어마어마한 규모의 좀비 무리가 정착지를 파괴하려 움직이고 있습니다!</OverwhelmingHorde>
+</LanguageData>
